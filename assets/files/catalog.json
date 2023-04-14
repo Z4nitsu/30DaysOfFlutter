@@ -39,6 +39,22 @@
             "price": 999,
             "color": "#33505a",
             "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-pro-finish-unselect-gallery-2-202209?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1663790290203" 
+        },
+        {
+            "id": 5,
+            "name":"iPhone 14 pro",
+            "desc": "Apple iPhone 14th generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-pro-finish-unselect-gallery-2-202209?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1663790290203" 
+        },
+        {
+            "id": 5,
+            "name":"iPhone 14 pro",
+            "desc": "Apple iPhone 14th generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-pro-finish-unselect-gallery-2-202209?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1663790290203" 
         }
     ]
 }
